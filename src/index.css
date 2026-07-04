@@ -131,17 +131,12 @@ body {
 .proj-links a:hover { background: var(--primary); color: white; }
 
 /* Contact Section */
-.contact-row { display: grid; grid-template-columns: 1fr 1.2fr; gap: 36px; }
+.contact-row { display: grid; grid-template-columns: 1fr ; gap: 36px; }
 .contact-left p { color: var(--text-gray); font-size: 0.88rem; line-height: 1.6; margin-bottom: 20px; }
 .ci { display: flex; align-items: center; gap: 12px; margin-bottom: 12px; }
 .ci-icon { background: var(--primary-light); color: var(--primary); border-radius: 6px; width: 34px; height: 34px; display: flex; align-items: center; justify-content: center; font-size: 1rem; }
 .ci p { color: var(--dark); font-size: 0.85rem; margin: 0; font-weight: 600; }
 
-.form-field { background: var(--bg-alt); border: 1px solid var(--border-color); border-radius: 8px; padding: 12px; color: var(--dark); font-family: inherit; font-size: 0.85rem; margin-bottom: 12px; width: 100%; box-sizing: border-box; }
-.form-field:focus { outline: none; border-color: var(--primary); background: white; }
-.form-area { height: 90px; resize: none; }
-.sub-btn { background: var(--primary); color: white; padding: 10px 20px; border-radius: 20px; font-size: 0.82rem; font-weight: 600; border: none; cursor: pointer; display: inline-flex; align-items: center; gap: 6px; }
-.sub-btn:hover { background: var(--primary-dark); }
 
 /* Footer */
 .footer { background: #0f0720; padding: 28px 32px; border-top: 2px solid var(--primary); }

@@ -12,12 +12,7 @@ const Contact = () => {
           <div className="ci"><div className="ci-icon">📍</div><p>Pakistan</p></div>
           <div className="ci"><div className="ci-icon">💼</div><p>Open to Client Work</p></div>
         </div>
-        <div>
-          <input type="text" className="form-field" placeholder="Your Name" />
-          <input type="email" className="form-field" placeholder="Your Email" />
-          <textarea className="form-field form-area" placeholder="Your Message..."></textarea>
-          <button className="sub-btn">Send Message ✉️</button>
-        </div>
+        
       </div>
     </div>
   );

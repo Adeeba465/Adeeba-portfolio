@@ -7,9 +7,12 @@ const Skills = () => {
     { name: 'CSS3', icon: '🎨' },
     { name: 'Tailwind CSS', icon: '💨' },
     { name: 'JavaScript', icon: '📜' },
-    { name: 'Git & GitHub', icon: '🔧' }
+    { name: 'Git & GitHub', icon: '🔧' },
+    { name: 'WordPress', icon: '🛠️' },
+    { name: 'Elementor', icon: '🧩' },
+    { name: 'WooCommerce', icon: '🛒' } ,
+    { name: 'Responsive Design', icon: '📱' },
   ];
-
   return (
     <div className="section white" id="skills">
       <div className="sec-title">My <span>Skills</span></div>
