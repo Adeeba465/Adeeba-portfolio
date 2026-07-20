@@ -8,7 +8,7 @@ const Contact = () => {
       <div className="contact-row">
         <div className="contact-left">
           <p>Have a project in mind? I'd love to hear from you. Let's build something amazing together!</p>
-          <div className="ci"><div className="ci-icon">📧</div><p>adeebaashraf.tech@gmail.com</p></div>
+          <div className="ci"><div className="ci-icon">📧</div><p><a href="mailto:adeebaashraf.tech@gmail.com">adeebaashraf.tech@gmail.com</a></p></div>
           <div className="ci"><div className="ci-icon">📍</div><p>Pakistan</p></div>
           <div className="ci"><div className="ci-icon">💼</div><p>Open to Client Work</p></div>
         </div>

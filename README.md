@@ -1,16 +1,32 @@
-# React + Vite
+# Adeeba Ashraf — Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+My personal developer portfolio, built to showcase my frontend work and projects.
 
-Currently, two official plugins are available:
+## About
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I'm a Frontend Developer who builds clean, responsive, and user-friendly web experiences using React, HTML, and CSS.
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React (Vite)
+- CSS
+- Deployed on Vercel
 
-## Expanding the ESLint configuration
+## Sections
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Hero** — intro and quick stats
+- **About** — background and focus areas
+- **Skills** — core technical skills
+- **Projects** — selected work with live demos and source links
+- **Contact** — ways to reach me
+
+## Running locally
+
+```bash
+npm install
+npm run dev
+```
+
+## Live site
+
+[Add your live Vercel URL here once deployment protection is turned off]

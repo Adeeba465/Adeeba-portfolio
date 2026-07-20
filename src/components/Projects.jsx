@@ -9,8 +9,8 @@ const Projects = () => {
       className: 'proj1',
       icon: '🔢',
       tags: ['React', 'CSS'],
-      liveLink: 'https://react-counter-app-gamma-six.vercel.app/', 
-      gitLink: 'https://github.com'
+      liveLink: 'https://react-counter-app-gamma-six.vercel.app/',
+      gitLink: 'https://github.com' // TODO: replace with the real repo URL for this project
     },
     {
       id: 2,
@@ -19,18 +19,18 @@ const Projects = () => {
       className: 'proj2',
       icon: '📝',
       tags: ['React', 'CSS'],
-      liveLink: '#', // Add when deployed, or leave as placeholder
-      gitLink: 'https://github.com'
+      liveLink: '#', // TODO: deploy this (e.g. Vercel) and paste the live URL here
+      gitLink: 'https://github.com' // TODO: replace with the real repo URL for this project
     },
     {
       id: 3,
-      title: 'Nexcent Clone',
-      desc: 'Fully responsive business landing page user interface clone project and its deployment management.',
+      title: 'Business Landing Page UI',
+      desc: 'Fully responsive business landing page built with hand-coded HTML5 and CSS3, focused on layout precision and cross-device responsiveness.',
       className: 'proj3',
       icon: '🏢',
       tags: ['HTML5', 'CSS3'],
-      liveLink: 'https://nexcent-clone-eta.vercel.app/', 
-      gitLink: 'https://github.com'
+      liveLink: 'https://nexcent-clone-eta.vercel.app/',
+      gitLink: 'https://github.com' // TODO: replace with the real repo URL for this project
     }
   ];
 
